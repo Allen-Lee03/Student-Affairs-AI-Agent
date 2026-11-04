@@ -17,7 +17,8 @@
 
 ## 📸 效果演示
 
-![系统演示](<img width="2119" height="1370" alt="demo" src="https://github.com/user-attachments/assets/d84a9844-56af-461b-b10e-117681272010" />)
+![系统演示](![Uploading demo.png…]()
+)
 
 ## 🚀 本地运行指南
 
