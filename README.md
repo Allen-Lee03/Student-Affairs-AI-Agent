@@ -18,7 +18,7 @@
 ## 📸 效果演示
 
 
-![Uploading demo.png…]()
+![系统演示](./demo.png)
 
 
 ## 🚀 本地运行指南
